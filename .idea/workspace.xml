@@ -10,7 +10,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d755ae-ddda-4895-837f-c7226063c8ae" name="Default Changelist" comment="" />
+    <list default="true" id="02d755ae-ddda-4895-837f-c7226063c8ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -131,27 +134,35 @@
       <option name="project" value="LOCAL" />
       <updated>1612089975787</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1612090323093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612090323093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="782" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1611642811965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="782" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611642811965" />
-    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1612090167092">
+    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1612090321649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="506" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612090167092" />
-    <state x="258" y="54" key="DiffContextDialog" timestamp="1612090055979">
+    <state x="506" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612090321649" />
+    <state x="258" y="54" key="DiffContextDialog" timestamp="1612090375588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1612090055979" />
+    <state x="258" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1612090375588" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1612010196623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,10 +187,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="699" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1612089911770" />
-    <state x="444" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612090272607">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1612090931966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612090272607" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1612090931966" />
+    <state x="444" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612090378682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612090378682" />
     <state x="548" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1612010038935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
