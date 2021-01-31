@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Alarm.iml" filepath="$PROJECT_DIR$/.idea/modules/Alarm.iml" group="Alarm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Alarm-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Alarm-app.iml" group="Alarm/app" />
+      <module fileurl="file://$PROJECT_DIR$/AlarmReminder.iml" filepath="$PROJECT_DIR$/AlarmReminder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/medicalEmerg.iml" filepath="$PROJECT_DIR$/.idea/modules/medicalEmerg.iml" group="medicalEmerg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/medicalEmerg-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/medicalEmerg-app.iml" group="medicalEmerg/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/medico.iml" filepath="$PROJECT_DIR$/.idea/modules/medico.iml" group="medico" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/medico-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/medico-app.iml" group="medico/app" />
+    </modules>
+  </component>
+</project>
