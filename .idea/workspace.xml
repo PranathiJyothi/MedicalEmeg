@@ -10,7 +10,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d755ae-ddda-4895-837f-c7226063c8ae" name="Default Changelist" comment="" />
+    <list default="true" id="02d755ae-ddda-4895-837f-c7226063c8ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,10 +139,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="782" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611642811965" />
-    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1612087200124">
+    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1612089927255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="506" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612087200124" />
+    <state x="506" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612089927255" />
+    <state x="258" y="54" key="DiffContextDialog" timestamp="1612089900771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1612089900771" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1612010196623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -161,6 +167,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="661" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612089163025" />
+    <state x="699" y="74" key="RollbackChangesDialog" timestamp="1612089911770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="699" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1612089911770" />
     <state x="444" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612087380328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
